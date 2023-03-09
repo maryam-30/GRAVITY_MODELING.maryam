@@ -32,7 +32,7 @@ hide_streamlit_style = """
 
             footer:after {
 
-            content:'Created by Your maryam';
+            content:'Created by maryam';
 
             visibility: visible;
 
